@@ -1,7 +1,7 @@
 ## EXPERIMENT--01-ALP-FOR-8086
-### Name : JANARTHANAN K
-### Roll no : 212223040072
-### Date of experiment : 12/11/24
+### Developed By: JANARTHANAN K
+### Register No.: 212223040072
+
 ## Aim:
 To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required:
