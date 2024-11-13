@@ -26,6 +26,7 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 ## Programs for arithmetic  operations
 ### Developed By: JANARTHANAN K
 ### Register No.: 212223040072
+### Date of Experiment: 13/08/2024
 ## Addition of 8 bit ALP 
 ```
 MOV AL,88H
