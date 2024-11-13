@@ -1,6 +1,5 @@
 ## EXPERIMENT--01-ALP-FOR-8086
-### Developed By: JANARTHANAN K
-### Register No.: 212223040072
+
 
 ## Aim:
 To Write and execute ALP on fundamental arithmetic and logical operations
@@ -26,6 +25,8 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 ![image](https://user-images.githubusercontent.com/36288975/189273277-113a2a33-4a40-4ff8-95a5-ecd3a1f504fe.png)
 ## Programs for arithmetic  operations
 ## Addition of 8 bit ALP 
+### Developed By: JANARTHANAN K
+### Register No.: 212223040072
 ```
 MOV AL,88H
 MOV BL,65H
